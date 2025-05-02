@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+peft
+trl
+nltk
+rouge-score
+scikit-learn
+tqdm
+pandas
+wandb
