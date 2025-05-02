@@ -10,6 +10,7 @@ This project fine-tunes a lightweight version of LLaMA (`TinyLlama-1.1B`) using 
 - `final_project.ipynb` – Main notebook that runs the entire project.
 - `swim-dataset.csv` - Dataset used to fine-tune model TinyLlama
 - `requirements.txt` - Install dependencies
+- `links.md` - List of links used to augment data
 - Training and evaluation logs.
 - BLEU/ROUGE performance metrics.
 
